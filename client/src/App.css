@@ -1,0 +1,16 @@
+.title {
+  font-size: 24px;
+  font-family: 'Arial', sans-serif;
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: #00ff62;
+  color: rgb(0, 0, 0);
+  font-family: 'Arial', bold, sans-serif;
+  font-size: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
